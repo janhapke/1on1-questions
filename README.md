@@ -139,8 +139,8 @@ Mega list of 1 on 1 questions copied from [VGraupera/1on1-questions](https://git
 1. Are there any problems or issues that I should know about?
 1. Are there any roles in the company you’d like to learn more about?
 1. Are you uncomfortable giving any of your peers constructive criticism? If so, why?
-1. Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
-1. Could you tell me a little more about that?
+    * Can you share some of the details around that particular issue? (Who was involved? Where? When? For how long?)
+    * Could you tell me a little more about that?
 1. Do you feel adequately supported by other team members? What makes you say that?
 1. Do you feel like you’re on the same page with the team? How often do you think you need meetings to ensure you stay that way?
 1. Do you have a clear understanding of the new goals and expectations? What makes you say that?
